@@ -1,7 +1,5 @@
 # Olá, eu sou João Pedro Queiroz!
 ![JP](https://img.itch.zone/aW1nLzE5NzMzMzc2LnBuZw==/original/EATpkP.png)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroqdemelo/)
-[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL@gmail.com])
 
 ## 🚀 Sobre Mim
 
@@ -54,4 +52,7 @@ Sou **Desenvolvedor Front-End|UI/UX-Designer** apaixonado por tecnologia e criar
 ---
 
 ## 📫 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroqdemelo/)
+[![E-mail](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU-EMAIL@gmail.com])
 [![Portfolio](https://img.shields.io/badge/Portfólio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([SEU-LINK-PORTFOLIO])
+
