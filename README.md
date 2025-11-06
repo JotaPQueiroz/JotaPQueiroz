@@ -1,5 +1,5 @@
 # Olá, eu sou João Pedro Queiroz!
-![JP](https://img.itch.zone/aW1nLzE5NzMzMzc2LnBuZw==/original/EATpkP.png)
+![JP](https://mir-s3-cdn-cf.behance.net/c40a9d90a9369650fad306b32f7e5cd5/fb1ce918-664a-476c-93be-279f67f8b2ca_rwc_625x0x12085x1734x13334.jpg?h=fc8df8cf481331225561ee6cdfb1e3c6)
 
 ## 🚀 Sobre Mim
 
